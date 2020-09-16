@@ -6,3 +6,11 @@ stackoverflow
 https://stats.stackexchange.com/
 
 https://books.google.com/ngrams
+
+cuartil y percentil... 
+
+docs.bokeh.org
+https://plotly.com/dash/
+
+
+pandas profiling
